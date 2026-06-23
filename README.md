@@ -1,4 +1,4 @@
-# Kexin-Multi-Exit-Proxy-Simulation
+# multi-exit-proxy-simulation
 
 # Modules
 - Proxy_Reachability_Testing [test_proxies.py](test_proxies.py)     
